@@ -1,5 +1,4 @@
 # Environment files with secrets
-.env
 !.env.example
 
 # Docker volumes data
@@ -52,3 +51,4 @@ temp/
 /start.sh
 /stop.ps1
 /stop.sh
+config.bat
